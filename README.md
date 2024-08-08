@@ -5,6 +5,6 @@
 
 ### Libraries used:
 - Axios
-* Bcryptjs
-+ Cors
+- Bcryptjs
+- Cors
 - Nodemailer
